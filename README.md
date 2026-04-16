@@ -43,7 +43,6 @@ Check out my repositories to see what I’ve been working on!
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/bimev
-* https://www.linkedin.com/in/niko-hiltunen-9432b5332/
 
 ---
 
